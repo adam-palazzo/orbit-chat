@@ -48,7 +48,7 @@
     "ipfs": "^0.33.1",
     "mobx": "^5.5.2",
     "mobx-react": "^5.4.2",
-    "orbit_": "git://github.com/orbitdb/orbit-core.git#dev/overall-refactor",
+    "orbit_": "github:orbitdb/orbit-core.git#dev/overall-refactor",
     "pleasejs": "^0.4.2",
     "prop-types": "^15.6.2",
     "react": "16.7.0-alpha.2",
